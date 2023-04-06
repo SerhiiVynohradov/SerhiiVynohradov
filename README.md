@@ -1,5 +1,4 @@
-### Hi, I'm Serge - a Ruby on Rails Developer, Web Platform Architect and Mathematician
-with a passion for building and analyzing web startups.
+### Hi, I'm Serge - a Ruby on Rails Developer, Web Platform Architect and Mathematician with a passion for building and analyzing web startups.
 
 With over 9 years of experience in software development, I've had the opportunity to work on complex web applications ranging from social networks to investment platforms.
 

@@ -9,8 +9,8 @@ Technologies I use:
 - C (1+ years)
 
 Here are my code samples:
-Ruby optimization by using Python and C: https://github.com/zoopyserg/rails-performance-optimization-example
-Ruby CPU Optimization: https://github.com/zoopyserg/rails-optimization-task1/pull/1
+- Ruby optimization by using Python and C: https://github.com/zoopyserg/rails-performance-optimization-example
+- Ruby CPU Optimization: https://github.com/zoopyserg/rails-optimization-task1/pull/1
 
 Currently, I work at a Microsoft-funded 9000-feature real estate investment platform where we sell skyscrapers to funds worldwide.
 Before that, I made a US-wide crowdfunding platform for the US elections, funded by the US government.

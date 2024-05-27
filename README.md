@@ -1,6 +1,8 @@
 ### I'm Serge.
 A Senior Ruby on Rails Developer, Web Platform Architect and Mathematician.
+
 I have a degree in Computational Linguistics.
+
 I love building complex web startups.
 
 Technologies I use:

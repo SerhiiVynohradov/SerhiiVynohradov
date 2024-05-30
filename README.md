@@ -12,7 +12,8 @@ Technologies I use:
 
 Here are my code samples:
 - Ruby optimization by using Python and C: https://github.com/zoopyserg/rails-performance-optimization-example
-- Ruby CPU Optimization: https://github.com/zoopyserg/rails-optimization-task1/pull/1
+- Ruby CPU Optimization (rbspy): https://github.com/zoopyserg/rails-optimization-task1/pull/1
+- Ruby RAM Optimization (qcachegrind + ruby-prof): https://github.com/zoopyserg/rails-optimization-task2/pull/1
 
 Currently, I work at a Microsoft-funded 9000-feature real estate investment platform where we sell skyscrapers to funds worldwide.
 

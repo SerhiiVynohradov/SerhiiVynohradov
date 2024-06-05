@@ -17,6 +17,7 @@ Here are my code samples:
 - Rails SQL & Rendering Bottleneck Optimization (Newrelic, PGHero, Bullet, RackMiniProfiler): https://github.com/zoopyserg/rails-optimization-task3/pull/1
 - Rails Caching + Apache Benchmark Load Testing + "local_production" environment: https://github.com/zoopyserg/rails-optimization-task4/pull/1
 - Writing a Ruby Gem: https://github.com/zoopyserg/standalone_class_instance_validator
+- Async HTTP calls from Ruby client: https://github.com/zoopyserg/rails-optimization-task5/pull/1
 
 Currently, I work at a Microsoft-funded 9000-feature real estate investment platform where we sell skyscrapers to funds worldwide.
 

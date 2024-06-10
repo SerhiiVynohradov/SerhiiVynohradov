@@ -18,6 +18,7 @@ Here are my code samples:
 - Rails Caching + Apache Benchmark Load Testing + "local_production" environment: https://github.com/zoopyserg/rails-optimization-task4/pull/1
 - Github CI Setup + speedtest.io/ngrok CI test of kb budgets of downloaded JS + assets/webpack optimization to fit the budgets: https://github.com/zoopyserg/rails-optimization-task6/pull/1
 - Optimizing Test Suite and Collecting DX Metrics: https://github.com/zoopyserg/rails-optimization-task7/pull/1
+- Optimizing Project Performance: https://github.com/zoopyserg/rails-optimization-task8/pull/1
 - Writing a Ruby Gem: https://github.com/zoopyserg/standalone_class_instance_validator
 - Async HTTP calls from Ruby client: https://github.com/zoopyserg/rails-optimization-task5/pull/1
 

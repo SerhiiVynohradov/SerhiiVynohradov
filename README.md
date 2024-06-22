@@ -22,6 +22,7 @@ Here are my code samples:
 - Writing a Ruby Gem: https://github.com/zoopyserg/standalone_class_instance_validator
 - Async HTTP calls from Ruby client: https://github.com/zoopyserg/rails-optimization-task5/pull/1
 - RabbitMQ and Sinatra microservices + ELK logging (Elasticsearch + Kibana + Filebeat): https://github.com/zoopyserg/rabbitmq-code-sample/tree/main
+- Distributed Deployment of Microservices using Ansible: https://github.com/zoopyserg/distributed-deployment-ansible
 
 Currently, I work at a Microsoft-funded 9000-feature real estate investment platform where we sell skyscrapers to funds worldwide.
 

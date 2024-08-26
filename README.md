@@ -30,7 +30,8 @@ Before that, I made a US-wide crowdfunding platform for the US elections, funded
 
 I also made other interesting projects.
 
-Download my CV: https://docs.google.com/document/d/1k2a4cxnga60qlxLPIKwaC3MbM33vMdpW/edit?usp=share_link&ouid=104554641446896904185&rtpof=true&sd=true
+Download my CV: 
+https://docs.google.com/document/d/1j-yj2vLCyhgHYdvDWCOdcyO7I09xwENU/edit?usp=drivesdk&ouid=104554641446896904185&rtpof=true&sd=true
 
 I make Mindmaps of the tools I use.
 
